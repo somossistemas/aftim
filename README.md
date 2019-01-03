@@ -1,1 +1,3 @@
 ### Aftim Project
+
+## Settings
